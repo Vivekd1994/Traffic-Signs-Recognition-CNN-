@@ -8,3 +8,6 @@ In this Python project example, I build a deep neural network model that can cla
 # The Dataset of Project :- 
 The dataset contains more than 50,000 images of different traffic signs. It is further classified into 43 different classes. The dataset is quite varying, some of the classes have many images while some classes have few images. 
 The dataset has a train folder which contains images inside each class and a test folder which we will use for testing our model.
+
+# Download image files of Meta, Test and Train from link :- 
+https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
